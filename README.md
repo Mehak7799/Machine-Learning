@@ -51,8 +51,8 @@ Follow the instruction to run the app on your local system:
 ![output](https://user-images.githubusercontent.com/30745067/156093269-03024458-be6f-444a-8228-8d35327f9789.JPG)
 
 ##### Visual Plots
-![pie](https://user-images.githubusercontent.com/30745067/156093250-752f3ece-7274-4364-af71-9ebb4b109c05.JPG)  
-![bar](https://user-images.githubusercontent.com/30745067/156093225-27cc3947-3507-4f35-ae37-5f6ffd90e7ce.JPG)
+![pie](https://user-images.githubusercontent.com/30745067/156093250-752f3ece-7274-4364-af71-9ebb4b109c05.JPG)  ![bar](https://user-images.githubusercontent.com/30745067/156093225-27cc3947-3507-4f35-ae37-5f6ffd90e7ce.JPG)
+
 
 ### Description of Folders/Modules
 ---
