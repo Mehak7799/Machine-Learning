@@ -8,3 +8,4 @@ PROPOSED SOLUTION:
 We will use Elbow technique to find the optimum number of clusters for the set of PDF documents. In Elbow technique the clustering is
 done for k=1 to k=n where n is defined by the programmer.Then a metric is calculated for each ‘k’ (variance, distortion, or inertia)
 and a graph is plotted of metric vs ‘k’. From the shape of the graph the value of ‘k’ is picked that forms the elbow in the graph.
+![scrren](https://user-images.githubusercontent.com/30745067/156081305-b162fd87-eb9a-43bc-a7ba-e412dad0aead.JPG)
